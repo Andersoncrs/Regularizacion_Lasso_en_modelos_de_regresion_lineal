@@ -1,5 +1,7 @@
 # 🚗 Implementación de Regularización Lasso en Modelos de Regresión Lineal - Precio de Vehículos
 
+![](banner_regularizacion.png)
+
 El siguiente informe es una continuación del análisis realizado sobre el precio de los vehículos, donde primero se llevó a cabo una limpieza de datos y, posteriormente, un análisis exploratorio de datos (EDA) y regresión lineal múltiple. En este informe, se exploran otros modelos de regresión lineal con el objetivo de mejorar la precisión del modelo creado.
 
 ## 📚 Contenidos
